@@ -10,9 +10,6 @@ An AI-powered smart traffic control system that dynamically manages traffic sign
 
 <p align="center">
   <b>🚦 Adaptive Traffic Management & Emergency Response System</b><br><br>
-
-  🌐 <b>Live Project Showcase:</b>  
-  👉 https://atmers.netlify.app/
 </p>
 
 <p align="center">
