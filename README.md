@@ -2,6 +2,12 @@
 
 An AI-powered smart traffic control system that dynamically manages traffic signals based on real-time vehicle density and provides **priority clearance for emergency vehicles** using RFID technology.
 
+<p align="center">
+  <a href="https://atmers.netlify.app/">
+    <img src="https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge">
+  </a>
+</p>
+
 ---
 
 ## 📌 Project Overview
