@@ -3,8 +3,21 @@
 An AI-powered smart traffic control system that dynamically manages traffic signals based on real-time vehicle density and provides **priority clearance for emergency vehicles** using RFID technology.
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI-YOLOv8-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Platform-IoT-red?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <b>🚦 Adaptive Traffic Management & Emergency Response System</b><br><br>
+
+  🌐 <b>Live Project Showcase:</b>  
+  👉 https://atmers.netlify.app/
+</p>
+
+<p align="center">
   <a href="https://atmers.netlify.app/">
-    <img src="https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge">
+    <img src="https://img.shields.io/badge/View-Project%20Website-brightgreen?style=for-the-badge">
   </a>
 </p>
 
@@ -22,6 +35,20 @@ This project combines **Computer Vision, IoT, and Automation** to create an inte
 * Enables **remote monitoring & control**
 
 ---
+
+## 🌐 Project Showcase
+
+Experience the complete overview of the system including features, working, and implementation details:
+
+🔗 https://atmers.netlify.app/
+
+> This website presents the full project explanation, architecture, and system design in a structured format.
+
+## 🎨 Project Website Preview
+
+<p align="center">
+  <img src="assets/website-preview.png" width="800"/>
+</p>
 
 ## 🎯 Key Features
 
