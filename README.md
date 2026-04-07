@@ -175,8 +175,8 @@ YOLOv8 (Python) → Vehicle Detection → Traffic Logic
 ### 🔹 1. Clone Repository
 
 ```bash
-git clone https://github.com/your-username/traffic-management-system.git
-cd traffic-management-system
+git clone https://github.com/Madannayak003/ATMERS-FINAL-YEAR-PROJECT-2026.git
+cd ATMERS-Final
 ```
 
 ### 🔹 2. Install Dependencies
